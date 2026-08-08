@@ -1,1 +1,2 @@
-## A simple python LLM Agent made with the help of [BootDev](https://www.boot.dev/)
+## A CLI python LLM Agent made as a [BootDev](https://www.boot.dev/) project
+
